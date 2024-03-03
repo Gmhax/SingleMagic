@@ -1,0 +1,2 @@
+# SingleMagic
+Magic World
